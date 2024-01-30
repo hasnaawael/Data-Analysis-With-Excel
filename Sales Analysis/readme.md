@@ -11,10 +11,10 @@ Key Metrics:
    - Display key performance metrics, including total sales, total profit, and profit margin.
 2 - Top Products and Categories:
 
-     - Identify top-selling products and categories to understand which products contribute most to revenue.
+   - Identify top-selling products and categories to understand which products contribute most to revenue.
 3- Geographic Analysis:
 
-    - Visualize sales performance across different states or regions to identify areas of opportunity or concern.
+   - Visualize sales performance across different states or regions to identify areas of opportunity or concern.
 4- Customer Analysis:
 
    - Analyze customer segments to identify the most valuable customers and tailor marketing strategies accordingly.
