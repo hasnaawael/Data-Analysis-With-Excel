@@ -19,5 +19,9 @@ The Excel dashboard project included the following tasks:
 
 7. Weekday/Weekend Revenue Analysis: This analysis aimed to compare the revenue generated on weekdays versus weekends. The findings were helpful in making staffing and operational decisions based on revenue patterns observed during different days of the week.
 
-## Conclusion
-The Excel dashboard project provided valuable insights into various aspects of the business, including customer analysis, profitability, product performance, store performance, and revenue analysis. The dashboard serves as a powerful tool for decision-making, financial planning, and performance evaluation.
+## Video
+
+
+
+https://github.com/hasnaawael/Data-Analysis-With-Excel/assets/102909885/67dee7f0-0661-4f4c-92bc-93787bbd3b09
+
